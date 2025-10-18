@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\cs2-Revive-Players-GoldKingZ\bin\Release\addons\counterstrikesharp\plugins\Revive-Players-GoldKingZ\lang\en.json
+C:\Users\Administrator\source\repos\cs2-Revive-Players-GoldKingZ\bin\Release\addons\counterstrikesharp\plugins\Revive-Players-GoldKingZ\lang\zh-Hans.json
+C:\Users\Administrator\source\repos\cs2-Revive-Players-GoldKingZ\bin\Release\addons\counterstrikesharp\plugins\Revive-Players-GoldKingZ\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\cs2-Revive-Players-GoldKingZ\bin\Release\addons\counterstrikesharp\plugins\Revive-Players-GoldKingZ\Revive-Players-GoldKingZ.deps.json
+C:\Users\Administrator\source\repos\cs2-Revive-Players-GoldKingZ\bin\Release\addons\counterstrikesharp\plugins\Revive-Players-GoldKingZ\Revive-Players-GoldKingZ.dll
+C:\Users\Administrator\source\repos\cs2-Revive-Players-GoldKingZ\obj\Release\Revive-Players-GoldKingZ.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\cs2-Revive-Players-GoldKingZ\obj\Release\Revive-Players-GoldKingZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\cs2-Revive-Players-GoldKingZ\obj\Release\Revive-Players-GoldKingZ.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\cs2-Revive-Players-GoldKingZ\obj\Release\Revive-Players-GoldKingZ.dll
+C:\Users\Administrator\source\repos\cs2-Revive-Players-GoldKingZ\obj\Release\refint\Revive-Players-GoldKingZ.dll
+C:\Users\Administrator\source\repos\cs2-Revive-Players-GoldKingZ\obj\Release\ref\Revive-Players-GoldKingZ.dll

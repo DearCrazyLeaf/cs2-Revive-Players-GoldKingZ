@@ -692,7 +692,8 @@ public class Helper
         if (AnimationEnt.Entity != null)AnimationEnt.Entity.Name = uniqueName;
         AnimationEnt.Spawnflags = 256u;
         AnimationEnt.RenderMode = RenderMode_t.kRenderNone;
-        AnimationEnt.NoGhostCollision = true;
+        // API 1.0.342: NoGhostCollision => CreateNonSolid
+        AnimationEnt.CreateNonSolid = true;
         AnimationEnt.Collision.CollisionGroup = 0;
         AnimationEnt.UseAnimGraph = false;
         AnimationEnt.SetModel(Configs.GetConfigData().Revive_ModelAnimation);
